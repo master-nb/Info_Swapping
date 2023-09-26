@@ -1,0 +1,8 @@
+username = input('What is your name:')
+fathername = input('What is your father name:')
+mothername = input('What is your mother name:')
+education = input('which class do you read in:')
+relationship = input('Tell us about your realationship status:')
+
+print(f'My cat name is {username}.',f"His father name is {fathername}.",f'His mother name is {mothername}.',f'He is a student of {education}.'
+      ,f'He is {relationship}.')
